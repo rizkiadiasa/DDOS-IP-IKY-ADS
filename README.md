@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/IkyOgiwara/IkyOgiwara/blob/master/Iky.jpg)
+![Design and Development](https://github.com/rizkiadiasa/DDOS-IP-IKY-ADS/blob/master/Iky.jpg)
 
 # Rizky adiasa (iky ads)
 Tool Ini Mendukung Aktivitas DDOS, Caranya Adalah Dengan Mengetik Perintah : $ python2 islddos.py <ip> <port> <packet> contoh: $python2 islddos.py 104.27.190.77 8080 100 IP target: 104.27.190.77 port: 8080 packet :100 Buatan Indonesia Indonesia Security Lite
